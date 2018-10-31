@@ -1,0 +1,106 @@
+{
+    "id": "164995162",
+    "loginId": "1758991",
+    "user_id": "111",
+    "referenceId": "101111",
+    "entityType": "1",
+    "date_created": "1539048138",
+    "date_modified": "1540331412",
+    "title": "From JBL: Pulse 2 Portable Bluetooth Speaker",
+    "description": "From JBL: Pulse 2 Portable Bluetooth Speaker",
+    "tags": "Home,Vendor",
+    "status": "approved",
+    "visibility": "1",
+    "sortOrder": "0",
+    "entityIdParent": "164995152",
+    "titleTextEncoded": "from-jbl-pulse-2-portable-bluetooth-speaker",
+    "category": null,
+    "sourceId": "6",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "86",
+    "settings": "",
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "videoMeta": {
+            "duration": "86",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "86",
+        "prettyDuration": "00:01:26",
+        "automaticThumbnailsPattern": "1758991\/164995162\/285a6\/thumb-101111-{count}",
+        "selectableThumbnails": [
+            "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00006.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00005.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00004.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00003.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00002.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v-dev.tvpage.com\/1758991\/164995162\/thumbnail\/image-thumbnail-256-e1b4a2192785fdcb7986bca559a49d86.jpg",
+            "480": "\/\/v-dev.tvpage.com\/1758991\/164995162\/thumbnail\/image-thumbnail-480-a127d8dc44405a8a715315bf4c96b5e1.jpg",
+            "640": "\/\/v-dev.tvpage.com\/1758991\/164995162\/thumbnail\/image-thumbnail-640-daee247a5ecc74d1b99bcd4faef75ee4.jpg",
+            "1280": "\/\/v-dev.tvpage.com\/1758991\/164995162\/thumbnail\/image-thumbnail-1280-5cb42ae42dc5c8a18dce2a3ecae0cad8.jpg",
+            "1920": "\/\/v-dev.tvpage.com\/1758991\/164995162\/thumbnail\/image-thumbnail-1920-dcdf3cd8e037b7300149bcc8daecacbd.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/164995162\/http___e.invodo.com_media_lib_92_video_8ZXF656D_512_288_pre.jpg",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/164995162\/http___e.invodo.com_media_lib_92_video_8ZXF656D_512_288_pre.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/media.mpd",
+        "hlsUrl": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/media.m3u8"
+    },
+    "transcripts": "",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "metrics_statistics": "",
+    "concept": null,
+    "homepage_gallery": null,
+    "living": null,
+    "uploader": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": ""
+}

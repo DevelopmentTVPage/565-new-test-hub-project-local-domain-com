@@ -1,0 +1,106 @@
+{
+    "id": "164995160",
+    "loginId": "1758991",
+    "user_id": "111",
+    "referenceId": "138672",
+    "entityType": "1",
+    "date_created": "1539048138",
+    "date_modified": "1540337646",
+    "title": "Crutchfield: Pioneer MVH-200EX display and controls demo",
+    "description": "Crutchfield: Pioneer MVH-200EX display and controls demo",
+    "tags": "Car,Demo",
+    "status": "approved",
+    "visibility": "1",
+    "sortOrder": "2",
+    "entityIdParent": "164995152",
+    "titleTextEncoded": "crutchfield-pioneer-mvh-200ex-display-and-controls-demo",
+    "category": null,
+    "sourceId": "6",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "85",
+    "settings": "",
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "videoMeta": {
+            "duration": "85",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "85",
+        "prettyDuration": "00:01:25",
+        "automaticThumbnailsPattern": "1758991\/164995160\/7b3ea\/thumb-138672-{count}",
+        "selectableThumbnails": [
+            "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/thumb-138672-00006.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/thumb-138672-00005.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/thumb-138672-00004.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/thumb-138672-00003.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/thumb-138672-00002.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/thumb-138672-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v-dev.tvpage.com\/1758991\/164995160\/thumbnail\/image-thumbnail-256-db5807b817f999492419e9d31751cad8.jpg",
+            "480": "\/\/v-dev.tvpage.com\/1758991\/164995160\/thumbnail\/image-thumbnail-480-cb1e5973c656f39e767b8edd74f197a7.jpg",
+            "640": "\/\/v-dev.tvpage.com\/1758991\/164995160\/thumbnail\/image-thumbnail-640-eb90bcc4edc9b80c915ddc1ef803aed8.jpg",
+            "1280": "\/\/v-dev.tvpage.com\/1758991\/164995160\/thumbnail\/image-thumbnail-1280-40418ea68a817227406a7b09021ed76d.jpg",
+            "1920": "\/\/v-dev.tvpage.com\/1758991\/164995160\/thumbnail\/image-thumbnail-1920-e817ed9fa392d61bcbb3edc705edcbea.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/164995160\/http___e.invodo.com_media_lib_92_video_WYGVKW4H_1280x720_spec17035_pre.jpg",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/164995160\/http___e.invodo.com_media_lib_92_video_WYGVKW4H_1280x720_spec17035_pre.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/media.mpd",
+        "hlsUrl": "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/media.m3u8"
+    },
+    "transcripts": "",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "metrics_statistics": "",
+    "concept": null,
+    "homepage_gallery": null,
+    "living": null,
+    "uploader": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": ""
+}
