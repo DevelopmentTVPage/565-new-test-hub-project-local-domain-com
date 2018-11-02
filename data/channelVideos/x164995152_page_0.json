@@ -2,81 +2,112 @@
     "pageNumber": 0,
     "data": [
         {
-            "id": "164995162",
-            "title": "From JBL: Pulse 2 Portable Bluetooth Speaker",
-            "date_created": "1539048138",
+            "id": "164995169",
+            "title": "New Test",
+            "date_created": "1541117170",
             "loginId": "1758991",
-            "tags": "Home,Vendor",
-            "description": "From JBL: Pulse 2 Portable Bluetooth Speaker",
+            "tags": null,
+            "description": "Test",
             "asset": {
                 "sources": [
                     {
-                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/1080p_media.mp4",
-                        "quality": "1080p",
-                        "mime": "video\/mp4",
                         "width": 1920,
-                        "height": 1080
+                        "height": 826,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-media--1920.jpeg?v=1541117174607"
                     },
                     {
-                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/720p_media.mp4",
-                        "quality": "720p",
-                        "mime": "video\/mp4",
                         "width": 1280,
-                        "height": 720
+                        "height": 550,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-media--1280.jpeg?v=1541117174594"
                     },
                     {
-                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/480p_media.mp4",
-                        "quality": "480p",
-                        "mime": "video\/mp4",
-                        "width": 854,
-                        "height": 480
+                        "width": 1200,
+                        "height": 516,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-media--1200.jpeg?v=1541117174559"
                     },
                     {
-                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/360p_media.mp4",
-                        "quality": "360p",
-                        "mime": "video\/mp4",
+                        "width": 1024,
+                        "height": 440,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-media--1024.jpeg?v=1541117174564"
+                    },
+                    {
+                        "width": 1080,
+                        "height": 464,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-media--1080.jpeg?v=1541117174588"
+                    },
+                    {
+                        "width": 960,
+                        "height": 413,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-media--960.jpeg?v=1541117174492"
+                    },
+                    {
                         "width": 640,
-                        "height": 360
+                        "height": 275,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-media--640.jpeg?v=1541117174481"
                     },
                     {
-                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/240p_media.mp4",
-                        "quality": "240p",
-                        "mime": "video\/mp4",
-                        "width": 320,
-                        "height": 180
+                        "width": 600,
+                        "height": 258,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-media--600.jpeg?v=1541117174483"
+                    },
+                    {
+                        "width": 256,
+                        "height": 110,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-media--256.jpeg?v=1541117175667"
                     }
                 ],
-                "videoMeta": {
-                    "duration": "86",
-                    "width": 1920,
-                    "height": 1080
-                },
-                "mediaDuration": "86",
-                "prettyDuration": "00:01:26",
-                "automaticThumbnailsPattern": "1758991\/164995162\/285a6\/thumb-101111-{count}",
-                "selectableThumbnails": [
-                    "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00006.jpg",
-                    "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00005.jpg",
-                    "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00004.jpg",
-                    "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00003.jpg",
-                    "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00002.jpg",
-                    "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00001.jpg"
+                "thumbnails": [
+                    {
+                        "width": 1920,
+                        "height": 1080,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-thumbnail-1920.jpeg?v=1541117176657"
+                    },
+                    {
+                        "width": 1280,
+                        "height": 720,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-thumbnail-1280.jpeg?v=1541117176507"
+                    },
+                    {
+                        "width": 640,
+                        "height": 360,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-thumbnail-640.jpeg?v=1541117176298"
+                    },
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-thumbnail-480.jpeg?v=1541117176278"
+                    },
+                    {
+                        "width": 256,
+                        "height": 144,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-thumbnail-256.jpeg?v=1541117176282"
+                    },
+                    {
+                        "width": 64,
+                        "height": 64,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-thumbnail-64.jpeg?v=1541117176230"
+                    }
                 ],
-                "thumbnails": {
-                    "256": "\/\/v-dev.tvpage.com\/1758991\/164995162\/thumbnail\/image-thumbnail-256-e1b4a2192785fdcb7986bca559a49d86.jpg",
-                    "480": "\/\/v-dev.tvpage.com\/1758991\/164995162\/thumbnail\/image-thumbnail-480-a127d8dc44405a8a715315bf4c96b5e1.jpg",
-                    "640": "\/\/v-dev.tvpage.com\/1758991\/164995162\/thumbnail\/image-thumbnail-640-daee247a5ecc74d1b99bcd4faef75ee4.jpg",
-                    "1280": "\/\/v-dev.tvpage.com\/1758991\/164995162\/thumbnail\/image-thumbnail-1280-5cb42ae42dc5c8a18dce2a3ecae0cad8.jpg",
-                    "1920": "\/\/v-dev.tvpage.com\/1758991\/164995162\/thumbnail\/image-thumbnail-1920-dcdf3cd8e037b7300149bcc8daecacbd.jpg"
-                },
-                "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/164995162\/http___e.invodo.com_media_lib_92_video_8ZXF656D_512_288_pre.jpg",
-                "thumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/164995162\/http___e.invodo.com_media_lib_92_video_8ZXF656D_512_288_pre.jpg",
-                "type": "mp4",
-                "dashUrl": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/media.mpd",
-                "hlsUrl": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/media.m3u8"
+                "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-thumbnail-640.jpeg?v=1541117176298",
+                "type": "photo"
             },
             "parentId": "164995152",
-            "url": "\/my-standard-channel\/from-jbl-pulse-2-portable-bluetooth-speaker\/164995152-164995162"
+            "url": "\/p\/new-test\/164995169"
         },
         {
             "id": "164995159",
@@ -231,6 +262,83 @@
             },
             "parentId": "164995152",
             "url": "\/my-standard-channel\/crutchfield-pioneer-mvh-200ex-display-and-controls-demo\/164995152-164995160"
+        },
+        {
+            "id": "164995162",
+            "title": "From JBL: Pulse 2 Portable Bluetooth Speaker",
+            "date_created": "1539048138",
+            "loginId": "1758991",
+            "tags": "Home,Vendor",
+            "description": "From JBL: Pulse 2 Portable Bluetooth Speaker",
+            "asset": {
+                "sources": [
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "videoMeta": {
+                    "duration": "86",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "86",
+                "prettyDuration": "00:01:26",
+                "automaticThumbnailsPattern": "1758991\/164995162\/285a6\/thumb-101111-{count}",
+                "selectableThumbnails": [
+                    "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00006.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00005.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00004.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00003.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00002.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00001.jpg"
+                ],
+                "thumbnails": {
+                    "256": "\/\/v-dev.tvpage.com\/1758991\/164995162\/thumbnail\/image-thumbnail-256-e1b4a2192785fdcb7986bca559a49d86.jpg",
+                    "480": "\/\/v-dev.tvpage.com\/1758991\/164995162\/thumbnail\/image-thumbnail-480-a127d8dc44405a8a715315bf4c96b5e1.jpg",
+                    "640": "\/\/v-dev.tvpage.com\/1758991\/164995162\/thumbnail\/image-thumbnail-640-daee247a5ecc74d1b99bcd4faef75ee4.jpg",
+                    "1280": "\/\/v-dev.tvpage.com\/1758991\/164995162\/thumbnail\/image-thumbnail-1280-5cb42ae42dc5c8a18dce2a3ecae0cad8.jpg",
+                    "1920": "\/\/v-dev.tvpage.com\/1758991\/164995162\/thumbnail\/image-thumbnail-1920-dcdf3cd8e037b7300149bcc8daecacbd.jpg"
+                },
+                "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/164995162\/http___e.invodo.com_media_lib_92_video_8ZXF656D_512_288_pre.jpg",
+                "thumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/164995162\/http___e.invodo.com_media_lib_92_video_8ZXF656D_512_288_pre.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/media.mpd",
+                "hlsUrl": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/media.m3u8"
+            },
+            "parentId": "164995152",
+            "url": "\/my-standard-channel\/from-jbl-pulse-2-portable-bluetooth-speaker\/164995152-164995162"
         },
         {
             "id": "164995165",
