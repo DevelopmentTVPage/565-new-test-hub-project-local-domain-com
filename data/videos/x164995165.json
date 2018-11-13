@@ -20,6 +20,8 @@
     "id": "164995165",
     "loginId": "1758991",
     "entityType": "7",
+    "sortOrder": "1",
+    "entityIdParent": "164995171",
     "titleTextEncoded": "my-photo",
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null,

@@ -1,0 +1,528 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "164995161",
+            "title": "From Parrot: Skycontroller Tutorial 3 - Record FPV",
+            "date_created": "1539048138",
+            "loginId": "1758991",
+            "tags": "Home,Vendor,embed",
+            "description": "From Parrot: Skycontroller Tutorial 3 - Record FPV",
+            "asset": {
+                "sources": [
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "videoMeta": {
+                    "duration": "166",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "166",
+                "prettyDuration": "00:02:46",
+                "automaticThumbnailsPattern": "1758991\/164995161\/8d3bc\/thumb-80387-{count}",
+                "selectableThumbnails": [
+                    "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/thumb-80387-00006.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/thumb-80387-00005.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/thumb-80387-00004.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/thumb-80387-00003.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/thumb-80387-00002.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/thumb-80387-00001.jpg"
+                ],
+                "thumbnails": {
+                    "256": "\/\/v-dev.tvpage.com\/1758991\/164995161\/thumbnail\/image-thumbnail-256-780b0c7f652a4c678774069b5a992512.jpg",
+                    "480": "\/\/v-dev.tvpage.com\/1758991\/164995161\/thumbnail\/image-thumbnail-480-8bf89e478f5288f6f652dc606d14aa9d.jpg",
+                    "640": "\/\/v-dev.tvpage.com\/1758991\/164995161\/thumbnail\/image-thumbnail-640-165c0895d16615a097fbf6317d79ef06.jpg",
+                    "1280": "\/\/v-dev.tvpage.com\/1758991\/164995161\/thumbnail\/image-thumbnail-1280-0987487916c7f5983e9051c391278665.jpg"
+                },
+                "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/164995161\/http___e.invodo.com_media_lib_92_video_4B54GYL0_512_288_pre.jpg",
+                "thumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/164995161\/http___e.invodo.com_media_lib_92_video_4B54GYL0_512_288_pre.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/media.mpd",
+                "hlsUrl": "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/media.m3u8"
+            },
+            "parentId": "164995171",
+            "url": "\/basic-standard-channel\/from-parrot-skycontroller-tutorial-3-record-fpv\/164995171-164995161"
+        },
+        {
+            "id": "164995165",
+            "title": "My Photo Test",
+            "date_created": "1540698787",
+            "loginId": "1758991",
+            "tags": null,
+            "description": "My Photo Test",
+            "asset": {
+                "type": "photo",
+                "sources": [
+                    {
+                        "width": 1920,
+                        "height": 1439,
+                        "format": "png",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/165009181\/image-media--1920.png?v=1540698815935"
+                    },
+                    {
+                        "width": 1280,
+                        "height": 959,
+                        "format": "png",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/165009181\/image-media--1280.png?v=1540698817011"
+                    },
+                    {
+                        "width": 1200,
+                        "height": 899,
+                        "format": "png",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/165009181\/image-media--1200.png?v=1540698816437"
+                    },
+                    {
+                        "width": 1024,
+                        "height": 767,
+                        "format": "png",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/165009181\/image-media--1024.png?v=1540698817030"
+                    },
+                    {
+                        "width": 1080,
+                        "height": 809,
+                        "format": "png",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/165009181\/image-media--1080.png?v=1540698815414"
+                    },
+                    {
+                        "width": 960,
+                        "height": 719,
+                        "format": "png",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/165009181\/image-media--960.png?v=1540698815341"
+                    },
+                    {
+                        "width": 640,
+                        "height": 479,
+                        "format": "png",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/165009181\/image-media--640.png?v=1540698815242"
+                    },
+                    {
+                        "width": 600,
+                        "height": 449,
+                        "format": "png",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/165009181\/image-media--600.png?v=1540698816178"
+                    },
+                    {
+                        "width": 256,
+                        "height": 191,
+                        "format": "png",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/165009181\/image-media--256.png?v=1540698816605"
+                    }
+                ],
+                "thumbnails": [
+                    {
+                        "width": 1920,
+                        "height": 1080,
+                        "format": "png",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/165009181\/image-thumbnail-1920.png?v=1540698817935"
+                    },
+                    {
+                        "width": 1280,
+                        "height": 720,
+                        "format": "png",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/165009181\/image-thumbnail-1280.png?v=1540698817793"
+                    },
+                    {
+                        "width": 640,
+                        "height": 360,
+                        "format": "png",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/165009181\/image-thumbnail-640.png?v=1540698817661"
+                    },
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "format": "png",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/165009181\/image-thumbnail-480.png?v=1540698817644"
+                    },
+                    {
+                        "width": 256,
+                        "height": 144,
+                        "format": "png",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/165009181\/image-thumbnail-256.png?v=1540698818019"
+                    },
+                    {
+                        "width": 64,
+                        "height": 64,
+                        "format": "png",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/165009181\/image-thumbnail-64.png?v=1540698818267"
+                    }
+                ],
+                "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1759121\/165009181\/image-media--640.png?v=1540698815242"
+            },
+            "parentId": "164995171",
+            "url": "\/p\/my-photo\/164995165"
+        },
+        {
+            "id": "164995162",
+            "title": "From JBL: Pulse 2 Portable Bluetooth Speaker",
+            "date_created": "1539048138",
+            "loginId": "1758991",
+            "tags": "Home,Vendor",
+            "description": "From JBL: Pulse 2 Portable Bluetooth Speaker",
+            "asset": {
+                "sources": [
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "videoMeta": {
+                    "duration": "86",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "86",
+                "prettyDuration": "00:01:26",
+                "automaticThumbnailsPattern": "1758991\/164995162\/285a6\/thumb-101111-{count}",
+                "selectableThumbnails": [
+                    "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00006.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00005.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00004.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00003.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00002.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/thumb-101111-00001.jpg"
+                ],
+                "thumbnails": {
+                    "256": "\/\/v-dev.tvpage.com\/1758991\/164995162\/thumbnail\/image-thumbnail-256-e1b4a2192785fdcb7986bca559a49d86.jpg",
+                    "480": "\/\/v-dev.tvpage.com\/1758991\/164995162\/thumbnail\/image-thumbnail-480-a127d8dc44405a8a715315bf4c96b5e1.jpg",
+                    "640": "\/\/v-dev.tvpage.com\/1758991\/164995162\/thumbnail\/image-thumbnail-640-daee247a5ecc74d1b99bcd4faef75ee4.jpg",
+                    "1280": "\/\/v-dev.tvpage.com\/1758991\/164995162\/thumbnail\/image-thumbnail-1280-5cb42ae42dc5c8a18dce2a3ecae0cad8.jpg",
+                    "1920": "\/\/v-dev.tvpage.com\/1758991\/164995162\/thumbnail\/image-thumbnail-1920-dcdf3cd8e037b7300149bcc8daecacbd.jpg"
+                },
+                "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/164995162\/http___e.invodo.com_media_lib_92_video_8ZXF656D_512_288_pre.jpg",
+                "thumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/164995162\/http___e.invodo.com_media_lib_92_video_8ZXF656D_512_288_pre.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/media.mpd",
+                "hlsUrl": "\/\/v-dev.tvpage.com\/1758991\/164995162\/285a6\/media.m3u8"
+            },
+            "parentId": "164995171",
+            "url": "\/basic-standard-channel\/from-jbl-pulse-2-portable-bluetooth-speaker\/164995171-164995162"
+        },
+        {
+            "id": "164995159",
+            "title": "Crutchfield: Pioneer AVH-4201NEX package display and controls demo",
+            "date_created": "1539048138",
+            "loginId": "1758991",
+            "tags": "Car,Demo",
+            "description": "Crutchfield: Pioneer AVH-4201NEX package display and controls demo",
+            "asset": {
+                "sources": [
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995159\/fb0fd\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995159\/fb0fd\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995159\/fb0fd\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995159\/fb0fd\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995159\/fb0fd\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "videoMeta": {
+                    "duration": "89",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "89",
+                "prettyDuration": "00:01:29",
+                "automaticThumbnailsPattern": "1758991\/164995159\/fb0fd\/thumb-132181-{count}",
+                "selectableThumbnails": [
+                    "\/\/v-dev.tvpage.com\/1758991\/164995159\/fb0fd\/thumb-132181-00006.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995159\/fb0fd\/thumb-132181-00005.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995159\/fb0fd\/thumb-132181-00004.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995159\/fb0fd\/thumb-132181-00003.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995159\/fb0fd\/thumb-132181-00002.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995159\/fb0fd\/thumb-132181-00001.jpg"
+                ],
+                "thumbnails": {
+                    "256": "\/\/v-dev.tvpage.com\/1758991\/164995159\/thumbnail\/image-thumbnail-256-be673f88ed5620e86acd4cc710a5f5da.jpg",
+                    "480": "\/\/v-dev.tvpage.com\/1758991\/164995159\/thumbnail\/image-thumbnail-480-4087d95a43c65ba80cf93e43fb64848d.jpg",
+                    "640": "\/\/v-dev.tvpage.com\/1758991\/164995159\/thumbnail\/image-thumbnail-640-ba06144b0cfcda0cf8c775287ad94eda.jpg",
+                    "1280": "\/\/v-dev.tvpage.com\/1758991\/164995159\/thumbnail\/image-thumbnail-1280-81fdd2e27a5453f81ac45111245ae9cc.jpg",
+                    "1920": "\/\/v-dev.tvpage.com\/1758991\/164995159\/thumbnail\/image-thumbnail-1920-551320b503394ae02030523ee02cfb22.jpg"
+                },
+                "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/164995159\/http___e.invodo.com_media_lib_92_video_2P051YFP_1280x720_spec17035_pre.jpg",
+                "thumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/164995159\/http___e.invodo.com_media_lib_92_video_2P051YFP_1280x720_spec17035_pre.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v-dev.tvpage.com\/1758991\/164995159\/fb0fd\/media.mpd",
+                "hlsUrl": "\/\/v-dev.tvpage.com\/1758991\/164995159\/fb0fd\/media.m3u8"
+            },
+            "parentId": "164995171",
+            "url": "\/basic-standard-channel\/crutchfield-pioneer-avh-4201nex-package-display-and-controls-demo\/164995171-164995159"
+        },
+        {
+            "id": "164995169",
+            "title": "New Test",
+            "date_created": "1541117170",
+            "loginId": "1758991",
+            "tags": null,
+            "description": "Test",
+            "asset": {
+                "sources": [
+                    {
+                        "width": 1920,
+                        "height": 826,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-media--1920.jpeg?v=1541117174607"
+                    },
+                    {
+                        "width": 1280,
+                        "height": 550,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-media--1280.jpeg?v=1541117174594"
+                    },
+                    {
+                        "width": 1200,
+                        "height": 516,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-media--1200.jpeg?v=1541117174559"
+                    },
+                    {
+                        "width": 1024,
+                        "height": 440,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-media--1024.jpeg?v=1541117174564"
+                    },
+                    {
+                        "width": 1080,
+                        "height": 464,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-media--1080.jpeg?v=1541117174588"
+                    },
+                    {
+                        "width": 960,
+                        "height": 413,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-media--960.jpeg?v=1541117174492"
+                    },
+                    {
+                        "width": 640,
+                        "height": 275,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-media--640.jpeg?v=1541117174481"
+                    },
+                    {
+                        "width": 600,
+                        "height": 258,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-media--600.jpeg?v=1541117174483"
+                    },
+                    {
+                        "width": 256,
+                        "height": 110,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-media--256.jpeg?v=1541117175667"
+                    }
+                ],
+                "thumbnails": [
+                    {
+                        "width": 1920,
+                        "height": 1080,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-thumbnail-1920.jpeg?v=1541117176657"
+                    },
+                    {
+                        "width": 1280,
+                        "height": 720,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-thumbnail-1280.jpeg?v=1541117176507"
+                    },
+                    {
+                        "width": 640,
+                        "height": 360,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-thumbnail-640.jpeg?v=1541117176298"
+                    },
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-thumbnail-480.jpeg?v=1541117176278"
+                    },
+                    {
+                        "width": 256,
+                        "height": 144,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-thumbnail-256.jpeg?v=1541117176282"
+                    },
+                    {
+                        "width": 64,
+                        "height": 64,
+                        "format": "jpeg",
+                        "url": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-thumbnail-64.jpeg?v=1541117176230"
+                    }
+                ],
+                "thumbnailUrl": "https:\/\/s3-us-west-2.amazonaws.com\/video-dev.tvpage.com\/1758991\/164995169\/image-thumbnail-640.jpeg?v=1541117176298",
+                "type": "photo"
+            },
+            "parentId": "164995171",
+            "url": "\/p\/new-test\/164995169"
+        },
+        {
+            "id": "164995160",
+            "title": "Crutchfield: Pioneer MVH-200EX display and controls demo",
+            "date_created": "1539048138",
+            "loginId": "1758991",
+            "tags": "Car,Demo",
+            "description": "Crutchfield: Pioneer MVH-200EX display and controls demo",
+            "asset": {
+                "sources": [
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "videoMeta": {
+                    "duration": "85",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "85",
+                "prettyDuration": "00:01:25",
+                "automaticThumbnailsPattern": "1758991\/164995160\/7b3ea\/thumb-138672-{count}",
+                "selectableThumbnails": [
+                    "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/thumb-138672-00006.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/thumb-138672-00005.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/thumb-138672-00004.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/thumb-138672-00003.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/thumb-138672-00002.jpg",
+                    "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/thumb-138672-00001.jpg"
+                ],
+                "thumbnails": {
+                    "256": "\/\/v-dev.tvpage.com\/1758991\/164995160\/thumbnail\/image-thumbnail-256-db5807b817f999492419e9d31751cad8.jpg",
+                    "480": "\/\/v-dev.tvpage.com\/1758991\/164995160\/thumbnail\/image-thumbnail-480-cb1e5973c656f39e767b8edd74f197a7.jpg",
+                    "640": "\/\/v-dev.tvpage.com\/1758991\/164995160\/thumbnail\/image-thumbnail-640-eb90bcc4edc9b80c915ddc1ef803aed8.jpg",
+                    "1280": "\/\/v-dev.tvpage.com\/1758991\/164995160\/thumbnail\/image-thumbnail-1280-40418ea68a817227406a7b09021ed76d.jpg",
+                    "1920": "\/\/v-dev.tvpage.com\/1758991\/164995160\/thumbnail\/image-thumbnail-1920-e817ed9fa392d61bcbb3edc705edcbea.jpg"
+                },
+                "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/164995160\/http___e.invodo.com_media_lib_92_video_WYGVKW4H_1280x720_spec17035_pre.jpg",
+                "thumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/164995160\/http___e.invodo.com_media_lib_92_video_WYGVKW4H_1280x720_spec17035_pre.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/media.mpd",
+                "hlsUrl": "\/\/v-dev.tvpage.com\/1758991\/164995160\/7b3ea\/media.m3u8"
+            },
+            "parentId": "164995171",
+            "url": "\/basic-standard-channel\/crutchfield-pioneer-mvh-200ex-display-and-controls-demo\/164995171-164995160"
+        }
+    ]
+}

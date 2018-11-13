@@ -1,0 +1,103 @@
+{
+    "title": "From Parrot: Skycontroller Tutorial 3 - Record FPV",
+    "description": "From Parrot: Skycontroller Tutorial 3 - Record FPV",
+    "referenceId": "80387",
+    "category": null,
+    "date_created": "1539048138",
+    "date_modified": "1540331359",
+    "tags": "Home,Vendor,embed",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "concept": null,
+    "homepage_gallery": null,
+    "living": null,
+    "user_id": "111",
+    "id": "164995161",
+    "loginId": "1758991",
+    "entityType": "1",
+    "titleTextEncoded": "from-parrot-skycontroller-tutorial-3-record-fpv",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "166",
+    "settings": "",
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "videoMeta": {
+            "duration": "166",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "166",
+        "prettyDuration": "00:02:46",
+        "automaticThumbnailsPattern": "1758991\/164995161\/8d3bc\/thumb-80387-{count}",
+        "selectableThumbnails": [
+            "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/thumb-80387-00006.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/thumb-80387-00005.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/thumb-80387-00004.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/thumb-80387-00003.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/thumb-80387-00002.jpg",
+            "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/thumb-80387-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v-dev.tvpage.com\/1758991\/164995161\/thumbnail\/image-thumbnail-256-780b0c7f652a4c678774069b5a992512.jpg",
+            "480": "\/\/v-dev.tvpage.com\/1758991\/164995161\/thumbnail\/image-thumbnail-480-8bf89e478f5288f6f652dc606d14aa9d.jpg",
+            "640": "\/\/v-dev.tvpage.com\/1758991\/164995161\/thumbnail\/image-thumbnail-640-165c0895d16615a097fbf6317d79ef06.jpg",
+            "1280": "\/\/v-dev.tvpage.com\/1758991\/164995161\/thumbnail\/image-thumbnail-1280-0987487916c7f5983e9051c391278665.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/164995161\/http___e.invodo.com_media_lib_92_video_4B54GYL0_512_288_pre.jpg",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/164995161\/http___e.invodo.com_media_lib_92_video_4B54GYL0_512_288_pre.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/media.mpd",
+        "hlsUrl": "\/\/v-dev.tvpage.com\/1758991\/164995161\/8d3bc\/media.m3u8"
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "uploader": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": ""
+}
